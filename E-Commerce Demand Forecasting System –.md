@@ -11,7 +11,7 @@ This system forecasts demand for e-commerce products using historical sales data
 ```
 ecommerce-demand-forecasting
 ├── data
-│   ├── #Data for prediction
+│   ├── #Upload data for prediction
 ├── src
 │   ├── data_preprocessing.py      # Data loading and preprocessing functions
 │   ├── forecasting_model.py       # Model training and forecasting functions
@@ -198,12 +198,6 @@ Provides an interactive web interface for the workflow.
 
 - Fork the repo and submit pull requests for improvements.
 - Please document any new features or changes.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
