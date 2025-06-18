@@ -1,0 +1,1001 @@
+category_id,product_id,category_name,quantity,order_date
+10,784,Electronics,2,2024-12-17
+50,682,Sports & Outdoors,5,2024-06-01
+50,684,Sports & Outdoors,5,2025-02-04
+40,204,Books & Stationery,2,2024-10-28
+20,202,Fashion,4,2024-05-10
+10,829,Electronics,4,2024-12-03
+10,706,Electronics,5,2024-06-07
+50,405,Sports & Outdoors,2,2024-07-15
+30,549,Home & Living,3,2024-12-17
+30,545,Home & Living,4,2024-04-12
+10,549,Electronics,2,2025-01-31
+40,773,Books & Stationery,3,2024-06-27
+30,526,Home & Living,5,2024-05-21
+10,544,Electronics,3,2024-12-03
+40,943,Books & Stationery,2,2025-02-07
+20,297,Fashion,2,2024-09-13
+40,107,Books & Stationery,1,2024-05-22
+10,871,Electronics,5,2024-03-19
+10,457,Electronics,4,2024-10-28
+10,941,Electronics,2,2024-12-24
+30,853,Home & Living,1,2024-12-05
+30,938,Home & Living,4,2025-02-20
+30,867,Home & Living,2,2024-07-26
+50,424,Sports & Outdoors,3,2024-12-30
+30,461,Home & Living,1,2024-04-09
+40,485,Books & Stationery,1,2024-07-18
+40,704,Books & Stationery,3,2025-01-12
+20,732,Fashion,1,2024-04-01
+30,815,Home & Living,1,2025-01-11
+30,768,Home & Living,3,2024-03-24
+10,658,Electronics,2,2025-01-17
+20,314,Fashion,5,2024-08-05
+50,264,Sports & Outdoors,1,2024-11-24
+10,653,Electronics,1,2024-09-01
+10,289,Electronics,5,2024-07-01
+20,353,Fashion,2,2024-03-31
+20,824,Fashion,2,2024-05-13
+50,499,Sports & Outdoors,4,2024-08-13
+20,374,Fashion,2,2025-03-04
+30,355,Home & Living,2,2024-06-09
+50,573,Sports & Outdoors,5,2024-04-25
+50,861,Sports & Outdoors,1,2024-08-16
+50,410,Sports & Outdoors,5,2024-05-30
+50,615,Sports & Outdoors,4,2024-11-11
+50,673,Sports & Outdoors,2,2024-06-29
+50,182,Sports & Outdoors,5,2024-08-09
+20,971,Fashion,4,2024-11-27
+10,476,Electronics,1,2024-09-23
+20,161,Fashion,3,2024-04-11
+30,837,Home & Living,2,2025-01-20
+50,416,Sports & Outdoors,2,2024-04-03
+20,660,Fashion,4,2024-05-30
+30,961,Home & Living,2,2024-09-15
+30,309,Home & Living,5,2024-09-19
+30,294,Home & Living,4,2024-07-25
+40,649,Books & Stationery,3,2024-04-22
+20,945,Fashion,1,2025-01-16
+20,395,Fashion,5,2024-08-01
+20,922,Fashion,1,2024-07-14
+50,799,Sports & Outdoors,1,2024-04-30
+20,311,Fashion,5,2024-12-15
+40,216,Books & Stationery,4,2024-05-25
+40,684,Books & Stationery,1,2024-04-21
+20,354,Fashion,4,2024-05-13
+10,202,Electronics,2,2024-12-15
+50,119,Sports & Outdoors,1,2024-05-25
+50,533,Sports & Outdoors,3,2024-11-10
+30,362,Home & Living,5,2024-12-17
+20,721,Fashion,4,2025-02-05
+50,732,Sports & Outdoors,2,2024-03-26
+50,675,Sports & Outdoors,3,2024-06-15
+30,569,Home & Living,4,2024-03-27
+40,915,Books & Stationery,1,2024-03-26
+50,260,Sports & Outdoors,3,2024-06-22
+30,381,Home & Living,2,2025-01-31
+20,755,Fashion,5,2024-07-04
+20,624,Fashion,4,2024-06-29
+40,551,Books & Stationery,5,2024-09-21
+50,293,Sports & Outdoors,2,2025-02-06
+10,941,Electronics,2,2024-11-01
+50,621,Sports & Outdoors,2,2025-03-14
+20,212,Fashion,4,2024-10-26
+40,141,Books & Stationery,5,2024-08-14
+40,858,Books & Stationery,5,2024-10-18
+30,351,Home & Living,1,2025-02-08
+30,606,Home & Living,5,2024-05-18
+20,166,Fashion,1,2024-11-16
+40,348,Books & Stationery,5,2024-08-15
+40,653,Books & Stationery,2,2025-01-23
+40,209,Books & Stationery,3,2024-04-23
+40,491,Books & Stationery,3,2024-06-04
+40,770,Books & Stationery,4,2025-03-06
+40,349,Books & Stationery,3,2024-07-06
+40,634,Books & Stationery,4,2024-06-29
+40,142,Books & Stationery,1,2025-03-17
+30,979,Home & Living,1,2024-06-14
+10,650,Electronics,1,2024-07-01
+10,994,Electronics,5,2024-09-27
+20,912,Fashion,1,2024-12-02
+30,101,Home & Living,1,2024-11-05
+20,865,Fashion,2,2024-07-04
+40,563,Books & Stationery,3,2024-07-25
+20,613,Fashion,4,2025-02-07
+10,705,Electronics,2,2024-08-31
+10,292,Electronics,3,2024-10-12
+10,952,Electronics,2,2024-09-24
+20,832,Fashion,2,2024-11-24
+50,918,Sports & Outdoors,5,2024-05-02
+20,360,Fashion,3,2025-02-23
+50,863,Sports & Outdoors,5,2024-09-24
+20,575,Fashion,4,2024-04-01
+30,133,Home & Living,4,2024-04-04
+40,159,Books & Stationery,2,2024-04-11
+40,704,Books & Stationery,1,2024-12-10
+50,793,Sports & Outdoors,2,2024-07-31
+50,273,Sports & Outdoors,5,2024-06-06
+10,798,Electronics,5,2024-12-23
+20,182,Fashion,5,2024-05-25
+50,222,Sports & Outdoors,2,2025-03-03
+30,793,Home & Living,1,2024-06-05
+10,399,Electronics,3,2024-10-02
+10,914,Electronics,4,2024-12-18
+10,774,Electronics,2,2024-09-19
+40,363,Books & Stationery,3,2024-08-15
+50,783,Sports & Outdoors,5,2024-04-17
+50,466,Sports & Outdoors,4,2024-06-06
+40,988,Books & Stationery,4,2024-07-30
+50,334,Sports & Outdoors,3,2024-04-10
+10,978,Electronics,1,2024-08-23
+40,237,Books & Stationery,2,2024-12-29
+40,555,Books & Stationery,3,2024-06-07
+20,695,Fashion,1,2025-01-16
+20,135,Fashion,4,2024-11-09
+30,318,Home & Living,1,2024-09-10
+30,757,Home & Living,1,2024-12-26
+40,386,Books & Stationery,1,2024-07-09
+50,115,Sports & Outdoors,5,2024-08-26
+20,285,Fashion,4,2024-05-20
+50,744,Sports & Outdoors,5,2025-01-20
+40,910,Books & Stationery,3,2024-10-21
+40,749,Books & Stationery,3,2024-09-10
+40,858,Books & Stationery,2,2024-08-14
+50,261,Sports & Outdoors,3,2025-03-17
+50,632,Sports & Outdoors,1,2025-02-04
+20,363,Fashion,5,2024-04-06
+10,369,Electronics,4,2024-03-29
+30,398,Home & Living,5,2024-05-03
+10,233,Electronics,1,2024-08-11
+30,543,Home & Living,5,2025-01-28
+20,798,Fashion,1,2025-01-07
+20,620,Fashion,3,2024-12-05
+30,845,Home & Living,2,2024-09-14
+40,177,Books & Stationery,4,2024-08-15
+50,178,Sports & Outdoors,4,2024-12-12
+20,395,Fashion,3,2024-12-19
+40,394,Books & Stationery,4,2025-01-07
+10,775,Electronics,3,2024-12-03
+40,937,Books & Stationery,4,2024-04-08
+20,114,Fashion,3,2024-12-26
+10,625,Electronics,4,2024-12-15
+40,575,Books & Stationery,2,2024-06-26
+30,180,Home & Living,1,2024-08-24
+10,971,Electronics,3,2024-08-02
+10,203,Electronics,5,2025-02-27
+50,204,Sports & Outdoors,5,2024-12-14
+20,955,Fashion,1,2024-04-05
+40,606,Books & Stationery,4,2024-05-17
+20,656,Fashion,4,2025-01-22
+40,836,Books & Stationery,2,2024-05-13
+40,167,Books & Stationery,5,2024-09-17
+30,883,Home & Living,1,2024-10-13
+10,112,Electronics,4,2025-02-21
+30,629,Home & Living,5,2024-12-25
+20,189,Fashion,5,2025-03-13
+10,276,Electronics,3,2024-08-30
+40,139,Books & Stationery,5,2024-10-28
+50,111,Sports & Outdoors,2,2024-06-17
+30,683,Home & Living,1,2024-12-04
+20,563,Fashion,2,2024-07-01
+10,633,Electronics,4,2024-06-19
+30,975,Home & Living,4,2024-09-25
+20,157,Fashion,4,2024-10-21
+10,620,Electronics,2,2024-05-14
+10,910,Electronics,4,2024-11-13
+50,157,Sports & Outdoors,1,2024-04-08
+50,661,Sports & Outdoors,1,2024-10-14
+10,839,Electronics,1,2024-08-04
+40,128,Books & Stationery,2,2024-12-08
+50,719,Sports & Outdoors,3,2024-07-17
+40,210,Books & Stationery,4,2024-08-02
+10,203,Electronics,3,2024-09-26
+50,845,Sports & Outdoors,3,2024-06-29
+50,579,Sports & Outdoors,4,2024-10-30
+20,602,Fashion,4,2024-06-07
+20,299,Fashion,2,2024-08-12
+40,123,Books & Stationery,1,2025-02-12
+50,928,Sports & Outdoors,1,2025-01-05
+50,643,Sports & Outdoors,5,2024-08-21
+40,314,Books & Stationery,5,2024-08-09
+10,371,Electronics,2,2025-03-03
+50,175,Sports & Outdoors,4,2024-05-18
+40,423,Books & Stationery,4,2025-03-12
+50,953,Sports & Outdoors,3,2024-11-05
+40,619,Books & Stationery,3,2024-04-27
+30,886,Home & Living,4,2025-01-24
+10,843,Electronics,3,2024-05-27
+10,436,Electronics,1,2024-04-08
+30,389,Home & Living,3,2025-01-29
+30,874,Home & Living,4,2025-03-18
+20,417,Fashion,1,2024-05-31
+50,405,Sports & Outdoors,3,2024-12-24
+50,206,Sports & Outdoors,5,2024-08-19
+20,568,Fashion,1,2025-03-18
+20,448,Fashion,5,2024-12-30
+10,511,Electronics,3,2025-02-27
+20,144,Fashion,3,2024-12-27
+10,287,Electronics,4,2025-01-23
+40,722,Books & Stationery,1,2024-07-15
+50,490,Sports & Outdoors,2,2024-05-14
+40,336,Books & Stationery,2,2025-02-06
+10,959,Electronics,5,2024-07-05
+30,190,Home & Living,4,2024-05-14
+40,218,Books & Stationery,2,2024-08-28
+30,852,Home & Living,4,2024-11-21
+10,974,Electronics,4,2024-08-10
+30,991,Home & Living,3,2025-01-06
+40,484,Books & Stationery,1,2025-02-07
+50,780,Sports & Outdoors,5,2024-12-19
+20,932,Fashion,2,2024-09-20
+30,981,Home & Living,2,2024-07-23
+20,320,Fashion,3,2024-09-12
+10,775,Electronics,4,2024-06-16
+50,394,Sports & Outdoors,2,2024-07-13
+30,814,Home & Living,2,2024-09-07
+30,911,Home & Living,4,2025-02-25
+10,535,Electronics,2,2024-06-06
+10,748,Electronics,2,2025-01-03
+10,884,Electronics,5,2024-10-28
+40,713,Books & Stationery,5,2024-11-13
+30,248,Home & Living,1,2024-09-24
+40,538,Books & Stationery,3,2025-03-03
+40,400,Books & Stationery,1,2025-01-27
+30,843,Home & Living,5,2024-04-17
+50,481,Sports & Outdoors,4,2025-01-29
+30,398,Home & Living,5,2025-01-07
+40,468,Books & Stationery,3,2024-08-12
+50,816,Sports & Outdoors,3,2024-06-24
+30,371,Home & Living,4,2024-10-10
+20,651,Fashion,5,2024-05-10
+50,188,Sports & Outdoors,5,2024-03-20
+50,335,Sports & Outdoors,4,2024-11-06
+20,151,Fashion,5,2024-06-09
+40,471,Books & Stationery,3,2024-08-04
+20,361,Fashion,1,2024-09-23
+50,489,Sports & Outdoors,1,2024-07-03
+40,961,Books & Stationery,4,2024-03-28
+40,671,Books & Stationery,1,2025-02-02
+10,558,Electronics,1,2024-08-15
+20,789,Fashion,1,2025-02-08
+10,124,Electronics,4,2024-07-17
+10,281,Electronics,5,2024-05-26
+30,967,Home & Living,1,2025-03-11
+20,976,Fashion,5,2025-03-09
+20,171,Fashion,2,2024-08-01
+30,644,Home & Living,2,2024-10-09
+50,400,Sports & Outdoors,4,2024-10-13
+50,802,Sports & Outdoors,2,2024-11-12
+30,450,Home & Living,4,2024-12-07
+30,665,Home & Living,3,2024-12-11
+50,144,Sports & Outdoors,3,2024-12-28
+30,957,Home & Living,3,2024-06-16
+10,502,Electronics,5,2025-03-09
+30,967,Home & Living,4,2025-02-05
+20,847,Fashion,3,2024-04-26
+20,145,Fashion,3,2024-12-28
+50,491,Sports & Outdoors,5,2024-06-26
+10,321,Electronics,2,2025-01-19
+40,234,Books & Stationery,2,2024-06-12
+50,631,Sports & Outdoors,2,2024-07-02
+20,773,Fashion,3,2024-12-26
+30,157,Home & Living,5,2024-08-14
+40,854,Books & Stationery,3,2024-11-14
+10,756,Electronics,4,2024-07-24
+20,544,Fashion,3,2025-02-04
+20,825,Fashion,5,2024-04-07
+50,502,Sports & Outdoors,1,2024-03-28
+40,148,Books & Stationery,5,2025-01-27
+30,990,Home & Living,3,2024-12-24
+40,826,Books & Stationery,1,2024-05-30
+50,721,Sports & Outdoors,4,2024-08-27
+10,442,Electronics,1,2025-03-07
+30,151,Home & Living,1,2024-08-20
+20,452,Fashion,2,2024-11-12
+20,279,Fashion,2,2024-09-20
+40,614,Books & Stationery,4,2024-05-15
+40,150,Books & Stationery,3,2024-04-17
+30,899,Home & Living,5,2024-03-30
+50,539,Sports & Outdoors,3,2025-01-21
+10,643,Electronics,5,2024-05-03
+20,266,Fashion,4,2025-01-27
+30,261,Home & Living,4,2025-01-01
+50,360,Sports & Outdoors,2,2024-09-05
+20,632,Fashion,1,2024-08-11
+50,909,Sports & Outdoors,2,2024-08-17
+50,742,Sports & Outdoors,1,2024-12-22
+40,685,Books & Stationery,1,2025-02-07
+40,681,Books & Stationery,1,2024-07-05
+40,761,Books & Stationery,2,2024-03-20
+30,241,Home & Living,2,2025-01-23
+10,702,Electronics,5,2025-02-07
+10,880,Electronics,1,2024-08-03
+20,282,Fashion,1,2025-01-28
+40,360,Books & Stationery,3,2024-05-25
+40,180,Books & Stationery,4,2024-11-23
+10,220,Electronics,5,2024-09-07
+10,792,Electronics,5,2024-08-02
+30,954,Home & Living,4,2024-09-22
+30,596,Home & Living,3,2024-07-24
+50,110,Sports & Outdoors,3,2024-12-17
+30,985,Home & Living,2,2024-05-08
+50,993,Sports & Outdoors,2,2024-07-09
+50,775,Sports & Outdoors,5,2024-04-08
+30,648,Home & Living,1,2025-02-21
+30,172,Home & Living,1,2024-07-03
+40,247,Books & Stationery,2,2025-03-12
+30,380,Home & Living,2,2024-11-07
+50,440,Sports & Outdoors,4,2024-05-02
+50,890,Sports & Outdoors,5,2024-07-21
+10,722,Electronics,4,2024-04-11
+20,507,Fashion,4,2024-09-24
+10,588,Electronics,4,2024-09-05
+50,111,Sports & Outdoors,3,2024-07-04
+50,855,Sports & Outdoors,2,2024-07-12
+30,403,Home & Living,4,2024-03-30
+30,676,Home & Living,5,2024-05-22
+30,819,Home & Living,3,2024-10-03
+50,139,Sports & Outdoors,5,2024-12-08
+20,246,Fashion,3,2024-12-16
+30,799,Home & Living,4,2025-01-24
+30,675,Home & Living,5,2025-01-17
+50,880,Sports & Outdoors,4,2024-09-20
+40,247,Books & Stationery,3,2024-10-27
+20,714,Fashion,2,2024-08-15
+30,665,Home & Living,3,2024-07-14
+50,263,Sports & Outdoors,5,2024-07-23
+20,339,Fashion,5,2024-08-29
+40,861,Books & Stationery,4,2024-03-29
+10,455,Electronics,4,2024-10-14
+30,463,Home & Living,4,2024-08-03
+20,889,Fashion,1,2024-09-14
+40,627,Books & Stationery,5,2024-05-30
+50,674,Sports & Outdoors,2,2025-03-05
+50,234,Sports & Outdoors,1,2024-05-06
+40,133,Books & Stationery,5,2025-02-28
+30,922,Home & Living,4,2024-11-02
+30,383,Home & Living,3,2024-06-20
+50,799,Sports & Outdoors,3,2024-06-21
+50,125,Sports & Outdoors,1,2024-12-17
+50,472,Sports & Outdoors,4,2024-05-16
+20,369,Fashion,2,2024-10-19
+40,233,Books & Stationery,2,2024-07-11
+50,260,Sports & Outdoors,4,2025-01-23
+50,503,Sports & Outdoors,5,2024-11-19
+50,521,Sports & Outdoors,5,2024-06-06
+50,108,Sports & Outdoors,2,2024-10-31
+40,739,Books & Stationery,4,2025-01-03
+40,301,Books & Stationery,5,2024-03-28
+10,897,Electronics,5,2024-11-07
+40,311,Books & Stationery,1,2024-08-02
+40,318,Books & Stationery,4,2024-07-01
+30,317,Home & Living,2,2024-10-21
+20,852,Fashion,4,2024-12-31
+40,364,Books & Stationery,1,2024-04-23
+30,983,Home & Living,2,2025-01-30
+40,389,Books & Stationery,3,2024-04-21
+50,530,Sports & Outdoors,5,2024-05-27
+10,424,Electronics,4,2024-10-06
+10,119,Electronics,2,2024-12-25
+50,887,Sports & Outdoors,5,2024-09-12
+20,633,Fashion,1,2024-06-20
+50,603,Sports & Outdoors,4,2024-10-07
+30,572,Home & Living,3,2025-02-21
+30,794,Home & Living,5,2024-07-28
+30,614,Home & Living,1,2024-06-24
+50,889,Sports & Outdoors,1,2024-05-17
+10,332,Electronics,5,2024-08-14
+10,508,Electronics,1,2024-08-18
+20,344,Fashion,5,2024-11-29
+30,937,Home & Living,4,2025-01-03
+10,426,Electronics,4,2024-12-12
+20,175,Fashion,2,2024-04-15
+30,787,Home & Living,3,2025-01-25
+40,292,Books & Stationery,1,2024-09-05
+20,200,Fashion,3,2025-02-03
+40,478,Books & Stationery,1,2024-10-22
+20,898,Fashion,2,2024-06-17
+40,388,Books & Stationery,4,2024-04-14
+50,525,Sports & Outdoors,1,2024-08-15
+50,887,Sports & Outdoors,3,2024-05-25
+10,907,Electronics,2,2025-02-25
+10,707,Electronics,2,2024-03-22
+50,117,Sports & Outdoors,2,2024-04-07
+10,420,Electronics,5,2024-10-26
+50,715,Sports & Outdoors,3,2024-06-26
+20,914,Fashion,5,2024-12-26
+40,721,Books & Stationery,5,2024-05-21
+20,988,Fashion,3,2025-02-11
+10,643,Electronics,5,2024-08-27
+10,311,Electronics,2,2024-12-07
+10,775,Electronics,4,2024-10-01
+50,822,Sports & Outdoors,3,2024-05-27
+50,287,Sports & Outdoors,2,2025-03-06
+20,284,Fashion,1,2024-05-11
+30,693,Home & Living,1,2024-09-09
+50,434,Sports & Outdoors,1,2024-11-20
+10,542,Electronics,5,2024-06-10
+10,221,Electronics,1,2024-09-09
+30,246,Home & Living,4,2024-12-24
+40,776,Books & Stationery,4,2025-03-16
+50,280,Sports & Outdoors,1,2024-11-06
+40,468,Books & Stationery,1,2024-07-01
+30,809,Home & Living,3,2024-08-12
+40,543,Books & Stationery,1,2024-07-03
+30,868,Home & Living,1,2025-01-16
+10,543,Electronics,2,2024-06-25
+20,839,Fashion,2,2024-04-22
+30,397,Home & Living,3,2024-07-14
+30,484,Home & Living,3,2024-04-14
+40,674,Books & Stationery,3,2024-04-30
+40,736,Books & Stationery,5,2024-04-28
+30,852,Home & Living,4,2024-09-14
+30,486,Home & Living,3,2024-12-10
+40,529,Books & Stationery,5,2024-05-12
+20,248,Fashion,5,2024-11-01
+20,508,Fashion,4,2024-08-19
+40,391,Books & Stationery,5,2025-02-24
+40,388,Books & Stationery,1,2025-01-17
+40,192,Books & Stationery,3,2024-05-01
+50,348,Sports & Outdoors,2,2025-02-15
+50,424,Sports & Outdoors,3,2025-01-08
+50,782,Sports & Outdoors,2,2024-05-04
+30,651,Home & Living,4,2024-12-24
+50,560,Sports & Outdoors,1,2024-05-09
+40,329,Books & Stationery,3,2024-08-25
+10,941,Electronics,1,2024-07-06
+20,522,Fashion,3,2024-12-08
+30,862,Home & Living,4,2024-08-17
+30,157,Home & Living,4,2025-01-17
+10,988,Electronics,1,2024-04-20
+20,842,Fashion,1,2024-03-21
+20,865,Fashion,1,2024-06-05
+20,280,Fashion,3,2024-04-17
+30,563,Home & Living,2,2024-11-13
+40,171,Books & Stationery,1,2024-05-17
+50,325,Sports & Outdoors,5,2024-07-03
+40,967,Books & Stationery,3,2024-10-12
+50,370,Sports & Outdoors,3,2024-07-02
+10,766,Electronics,3,2024-04-19
+20,162,Fashion,3,2024-05-01
+20,158,Fashion,2,2024-10-30
+40,888,Books & Stationery,4,2025-01-28
+20,225,Fashion,3,2024-08-09
+40,820,Books & Stationery,1,2024-09-22
+10,958,Electronics,3,2024-07-02
+40,828,Books & Stationery,1,2024-12-25
+10,297,Electronics,2,2024-07-01
+40,626,Books & Stationery,2,2025-02-20
+20,259,Fashion,4,2024-12-19
+10,716,Electronics,1,2025-03-10
+50,486,Sports & Outdoors,4,2025-03-13
+20,260,Fashion,1,2024-08-17
+50,190,Sports & Outdoors,1,2024-07-11
+50,976,Sports & Outdoors,3,2024-12-23
+20,828,Fashion,1,2024-08-17
+40,310,Books & Stationery,5,2024-12-31
+40,792,Books & Stationery,2,2024-11-17
+30,327,Home & Living,5,2024-11-29
+10,554,Electronics,3,2024-10-26
+50,667,Sports & Outdoors,3,2024-11-24
+30,675,Home & Living,5,2024-08-30
+30,964,Home & Living,2,2024-07-23
+10,141,Electronics,4,2024-08-30
+20,106,Fashion,1,2025-03-01
+10,184,Electronics,5,2024-06-02
+30,137,Home & Living,3,2024-05-25
+40,622,Books & Stationery,3,2024-05-04
+10,347,Electronics,5,2025-01-27
+20,199,Fashion,4,2024-10-05
+30,576,Home & Living,3,2024-05-13
+10,522,Electronics,3,2024-12-30
+20,781,Fashion,2,2024-06-22
+10,560,Electronics,3,2025-02-24
+40,547,Books & Stationery,5,2024-12-02
+50,225,Sports & Outdoors,1,2024-10-13
+10,302,Electronics,4,2024-06-09
+30,884,Home & Living,1,2024-04-21
+40,688,Books & Stationery,2,2024-05-29
+20,848,Fashion,1,2024-09-15
+20,856,Fashion,4,2024-03-28
+30,493,Home & Living,3,2024-03-26
+30,700,Home & Living,1,2024-05-10
+50,555,Sports & Outdoors,4,2024-07-11
+20,129,Fashion,2,2024-04-04
+10,222,Electronics,3,2024-10-14
+20,795,Fashion,4,2024-11-14
+30,739,Home & Living,2,2024-05-26
+40,220,Books & Stationery,2,2024-09-20
+30,905,Home & Living,4,2024-12-10
+50,870,Sports & Outdoors,1,2024-03-26
+50,186,Sports & Outdoors,4,2024-05-02
+10,401,Electronics,5,2024-05-17
+10,154,Electronics,5,2024-11-20
+20,268,Fashion,3,2025-03-06
+30,626,Home & Living,2,2024-09-20
+50,681,Sports & Outdoors,2,2024-12-21
+50,531,Sports & Outdoors,3,2024-08-18
+30,297,Home & Living,1,2024-08-18
+50,344,Sports & Outdoors,5,2025-03-12
+40,977,Books & Stationery,3,2024-08-24
+10,444,Electronics,5,2024-08-28
+10,739,Electronics,2,2025-01-25
+30,762,Home & Living,3,2024-04-30
+20,509,Fashion,3,2024-07-20
+30,159,Home & Living,5,2025-02-21
+40,886,Books & Stationery,4,2025-03-04
+20,691,Fashion,3,2024-11-08
+30,589,Home & Living,2,2025-01-18
+50,615,Sports & Outdoors,2,2024-09-24
+10,639,Electronics,3,2024-12-22
+10,650,Electronics,3,2025-02-21
+50,990,Sports & Outdoors,4,2024-04-09
+30,144,Home & Living,1,2024-08-24
+20,439,Fashion,5,2025-02-26
+10,554,Electronics,4,2025-01-03
+20,294,Fashion,1,2024-09-10
+10,482,Electronics,1,2024-04-25
+40,716,Books & Stationery,2,2024-10-13
+10,520,Electronics,4,2024-08-12
+10,482,Electronics,3,2024-08-07
+30,961,Home & Living,3,2024-10-22
+20,226,Fashion,1,2024-10-17
+40,374,Books & Stationery,3,2025-01-14
+50,568,Sports & Outdoors,2,2024-04-04
+40,146,Books & Stationery,5,2024-09-28
+10,241,Electronics,2,2024-12-28
+10,879,Electronics,5,2024-12-14
+10,267,Electronics,2,2024-05-09
+10,354,Electronics,5,2024-10-07
+20,689,Fashion,4,2024-12-19
+50,190,Sports & Outdoors,4,2024-07-30
+50,869,Sports & Outdoors,5,2024-05-09
+10,247,Electronics,5,2024-10-20
+10,653,Electronics,2,2024-07-28
+20,307,Fashion,5,2024-04-03
+10,470,Electronics,4,2025-02-08
+40,738,Books & Stationery,2,2024-07-12
+40,431,Books & Stationery,2,2024-09-13
+50,209,Sports & Outdoors,1,2024-11-09
+30,876,Home & Living,2,2024-08-08
+40,375,Books & Stationery,5,2024-09-28
+50,755,Sports & Outdoors,1,2024-06-11
+10,100,Electronics,4,2024-12-12
+10,992,Electronics,3,2024-11-09
+30,241,Home & Living,5,2024-11-13
+40,576,Books & Stationery,4,2024-11-18
+40,899,Books & Stationery,5,2024-06-14
+20,737,Fashion,2,2024-06-05
+10,595,Electronics,2,2024-09-22
+10,855,Electronics,3,2025-03-16
+40,105,Books & Stationery,2,2025-01-20
+20,205,Fashion,4,2024-06-11
+30,575,Home & Living,5,2024-08-25
+40,901,Books & Stationery,4,2024-11-03
+50,545,Sports & Outdoors,2,2024-09-04
+10,560,Electronics,4,2024-07-03
+30,973,Home & Living,1,2024-04-26
+30,308,Home & Living,5,2024-11-04
+30,893,Home & Living,1,2024-04-07
+30,610,Home & Living,5,2024-08-17
+40,722,Books & Stationery,2,2024-05-31
+50,744,Sports & Outdoors,3,2024-03-23
+10,511,Electronics,2,2025-02-27
+50,200,Sports & Outdoors,2,2024-06-01
+20,628,Fashion,1,2024-12-03
+20,110,Fashion,5,2024-09-27
+10,141,Electronics,2,2024-03-23
+50,113,Sports & Outdoors,3,2025-02-24
+50,246,Sports & Outdoors,2,2024-11-09
+10,564,Electronics,4,2024-06-16
+30,140,Home & Living,2,2024-05-28
+10,614,Electronics,5,2024-12-13
+40,305,Books & Stationery,2,2025-02-18
+40,657,Books & Stationery,4,2024-05-11
+30,200,Home & Living,2,2024-07-20
+20,405,Fashion,4,2024-12-26
+30,311,Home & Living,5,2024-06-12
+40,517,Books & Stationery,2,2025-01-26
+20,944,Fashion,5,2024-07-28
+50,775,Sports & Outdoors,5,2025-02-09
+10,888,Electronics,4,2024-03-26
+30,618,Home & Living,3,2024-10-03
+10,819,Electronics,4,2024-04-23
+40,892,Books & Stationery,5,2024-09-26
+10,396,Electronics,3,2024-06-13
+20,362,Fashion,2,2024-10-01
+50,413,Sports & Outdoors,2,2025-01-26
+20,125,Fashion,2,2024-09-05
+30,265,Home & Living,2,2024-03-27
+20,870,Fashion,2,2024-12-18
+10,787,Electronics,4,2025-02-17
+50,173,Sports & Outdoors,2,2024-08-04
+30,635,Home & Living,4,2025-01-07
+30,977,Home & Living,3,2024-12-02
+50,409,Sports & Outdoors,1,2024-09-26
+40,350,Books & Stationery,2,2024-03-29
+50,677,Sports & Outdoors,1,2024-05-26
+50,783,Sports & Outdoors,3,2024-10-08
+20,291,Fashion,5,2024-08-10
+50,748,Sports & Outdoors,1,2024-04-22
+20,574,Fashion,4,2024-09-07
+40,682,Books & Stationery,1,2024-11-16
+10,597,Electronics,3,2024-09-28
+50,513,Sports & Outdoors,5,2024-09-14
+40,809,Books & Stationery,1,2024-11-05
+20,187,Fashion,3,2024-07-17
+10,229,Electronics,1,2025-01-06
+20,170,Fashion,1,2024-07-19
+40,951,Books & Stationery,1,2024-04-09
+20,204,Fashion,3,2024-07-31
+10,763,Electronics,1,2024-04-23
+30,693,Home & Living,2,2024-09-15
+10,892,Electronics,1,2024-05-24
+30,118,Home & Living,4,2024-03-21
+30,756,Home & Living,4,2024-10-11
+20,433,Fashion,2,2025-03-13
+10,931,Electronics,3,2025-02-07
+50,951,Sports & Outdoors,4,2024-09-11
+10,427,Electronics,2,2024-11-23
+20,349,Fashion,3,2025-01-28
+10,533,Electronics,1,2024-10-07
+10,660,Electronics,3,2024-04-05
+40,387,Books & Stationery,2,2025-01-10
+30,257,Home & Living,5,2024-09-25
+40,560,Books & Stationery,5,2024-12-23
+50,369,Sports & Outdoors,4,2024-11-30
+10,622,Electronics,4,2025-02-15
+40,953,Books & Stationery,3,2025-02-12
+30,624,Home & Living,1,2024-06-27
+10,911,Electronics,3,2024-10-27
+40,448,Books & Stationery,5,2024-10-14
+20,591,Fashion,3,2025-01-03
+40,417,Books & Stationery,5,2024-11-08
+10,923,Electronics,5,2024-11-01
+40,631,Books & Stationery,1,2024-12-30
+20,681,Fashion,1,2025-03-08
+10,275,Electronics,1,2024-11-23
+50,766,Sports & Outdoors,5,2025-01-30
+50,505,Sports & Outdoors,4,2024-11-18
+40,628,Books & Stationery,3,2024-07-28
+10,624,Electronics,5,2024-07-18
+10,950,Electronics,4,2024-08-02
+20,851,Fashion,2,2025-02-12
+40,645,Books & Stationery,2,2024-08-23
+40,811,Books & Stationery,5,2024-10-05
+10,497,Electronics,3,2024-03-20
+20,349,Fashion,3,2025-02-09
+40,358,Books & Stationery,3,2024-12-07
+30,247,Home & Living,5,2024-11-22
+30,355,Home & Living,3,2024-11-12
+40,121,Books & Stationery,5,2024-07-04
+50,901,Sports & Outdoors,1,2024-09-25
+20,323,Fashion,3,2025-03-12
+50,762,Sports & Outdoors,1,2024-07-27
+50,669,Sports & Outdoors,1,2024-05-04
+40,868,Books & Stationery,2,2024-10-02
+50,775,Sports & Outdoors,2,2025-02-19
+50,841,Sports & Outdoors,2,2024-05-03
+20,522,Fashion,2,2024-10-23
+20,343,Fashion,2,2024-05-26
+50,162,Sports & Outdoors,3,2024-12-07
+50,950,Sports & Outdoors,4,2024-10-30
+20,969,Fashion,1,2024-12-27
+30,411,Home & Living,5,2024-10-18
+50,608,Sports & Outdoors,1,2024-09-08
+10,186,Electronics,1,2024-05-12
+20,629,Fashion,2,2024-05-27
+30,114,Home & Living,4,2024-08-17
+50,806,Sports & Outdoors,4,2024-12-16
+50,636,Sports & Outdoors,2,2024-09-14
+30,175,Home & Living,2,2024-08-04
+40,349,Books & Stationery,3,2024-08-30
+50,490,Sports & Outdoors,5,2024-04-01
+30,877,Home & Living,4,2024-04-07
+50,798,Sports & Outdoors,5,2024-09-30
+20,352,Fashion,1,2025-01-16
+20,183,Fashion,2,2024-04-13
+50,399,Sports & Outdoors,3,2024-09-08
+30,246,Home & Living,2,2025-01-28
+20,231,Fashion,2,2024-07-29
+20,645,Fashion,2,2024-05-29
+50,727,Sports & Outdoors,3,2024-09-12
+40,479,Books & Stationery,3,2024-07-12
+10,977,Electronics,5,2024-11-22
+30,279,Home & Living,5,2024-10-07
+40,952,Books & Stationery,5,2024-04-16
+10,405,Electronics,2,2024-10-14
+20,355,Fashion,2,2024-12-11
+40,537,Books & Stationery,4,2024-04-26
+10,375,Electronics,2,2024-05-28
+50,501,Sports & Outdoors,3,2025-03-05
+40,712,Books & Stationery,2,2024-05-21
+50,102,Sports & Outdoors,4,2025-03-10
+30,874,Home & Living,2,2024-09-24
+40,952,Books & Stationery,2,2024-05-23
+20,471,Fashion,4,2025-01-14
+30,896,Home & Living,4,2024-09-29
+10,669,Electronics,5,2024-07-06
+10,393,Electronics,1,2024-12-13
+40,366,Books & Stationery,1,2025-01-10
+20,567,Fashion,1,2025-03-01
+50,732,Sports & Outdoors,2,2024-04-21
+10,961,Electronics,4,2025-03-05
+20,500,Fashion,1,2024-05-03
+40,844,Books & Stationery,1,2024-12-13
+50,295,Sports & Outdoors,5,2025-02-11
+20,860,Fashion,1,2025-01-13
+40,738,Books & Stationery,5,2024-08-12
+50,638,Sports & Outdoors,4,2024-11-17
+10,765,Electronics,1,2024-07-22
+50,693,Sports & Outdoors,1,2024-06-10
+50,535,Sports & Outdoors,2,2024-06-01
+50,707,Sports & Outdoors,2,2024-05-14
+50,454,Sports & Outdoors,3,2024-04-26
+20,713,Fashion,4,2024-07-14
+20,665,Fashion,5,2024-08-18
+10,395,Electronics,1,2025-03-14
+30,504,Home & Living,2,2025-01-04
+30,481,Home & Living,4,2024-08-12
+30,479,Home & Living,4,2025-01-17
+50,101,Sports & Outdoors,3,2024-11-18
+40,685,Books & Stationery,1,2024-04-26
+50,691,Sports & Outdoors,2,2024-06-16
+50,436,Sports & Outdoors,4,2025-02-20
+10,317,Electronics,3,2024-05-08
+40,313,Books & Stationery,2,2024-09-21
+20,506,Fashion,3,2024-09-12
+10,816,Electronics,3,2024-10-02
+40,197,Books & Stationery,2,2024-09-28
+30,557,Home & Living,3,2024-08-22
+20,110,Fashion,3,2024-05-17
+20,244,Fashion,4,2024-11-27
+40,554,Books & Stationery,1,2024-07-29
+10,957,Electronics,4,2024-12-16
+50,750,Sports & Outdoors,5,2024-09-27
+50,556,Sports & Outdoors,3,2024-05-29
+50,343,Sports & Outdoors,1,2025-02-16
+30,427,Home & Living,2,2024-08-17
+40,112,Books & Stationery,2,2024-03-25
+50,712,Sports & Outdoors,3,2024-10-15
+10,710,Electronics,4,2024-09-20
+10,532,Electronics,5,2024-08-24
+30,500,Home & Living,1,2024-11-20
+30,196,Home & Living,5,2024-07-15
+40,511,Books & Stationery,2,2025-02-14
+50,606,Sports & Outdoors,1,2024-08-25
+40,226,Books & Stationery,3,2024-12-11
+20,636,Fashion,2,2024-10-28
+50,136,Sports & Outdoors,1,2025-02-14
+20,260,Fashion,1,2025-02-05
+30,664,Home & Living,5,2024-06-01
+50,460,Sports & Outdoors,2,2024-09-08
+20,299,Fashion,3,2025-02-04
+50,183,Sports & Outdoors,3,2024-08-28
+50,592,Sports & Outdoors,1,2024-04-11
+20,292,Fashion,3,2024-06-13
+50,753,Sports & Outdoors,4,2024-04-02
+50,415,Sports & Outdoors,5,2024-11-04
+30,315,Home & Living,2,2025-03-16
+10,125,Electronics,2,2025-02-21
+30,598,Home & Living,4,2024-03-27
+50,465,Sports & Outdoors,2,2024-10-25
+30,329,Home & Living,3,2025-02-21
+30,538,Home & Living,4,2024-08-24
+30,667,Home & Living,4,2024-11-11
+30,486,Home & Living,4,2024-04-19
+10,864,Electronics,5,2024-09-08
+50,128,Sports & Outdoors,4,2024-04-18
+40,847,Books & Stationery,5,2025-01-06
+20,983,Fashion,1,2024-11-26
+10,776,Electronics,5,2024-08-25
+30,797,Home & Living,4,2024-06-25
+50,263,Sports & Outdoors,3,2025-02-21
+40,122,Books & Stationery,5,2025-03-19
+20,604,Fashion,4,2024-05-21
+10,529,Electronics,5,2024-11-11
+50,374,Sports & Outdoors,2,2024-04-14
+50,964,Sports & Outdoors,4,2025-01-28
+30,447,Home & Living,1,2025-01-12
+50,232,Sports & Outdoors,5,2024-12-27
+40,804,Books & Stationery,1,2024-12-06
+20,464,Fashion,5,2024-05-15
+40,438,Books & Stationery,5,2024-12-07
+20,295,Fashion,5,2024-07-25
+40,834,Books & Stationery,5,2024-07-28
+30,526,Home & Living,2,2024-10-21
+50,519,Sports & Outdoors,1,2025-03-11
+30,254,Home & Living,1,2024-09-23
+10,815,Electronics,3,2024-06-13
+20,791,Fashion,4,2024-08-12
+10,909,Electronics,1,2024-07-11
+30,939,Home & Living,2,2024-09-18
+30,257,Home & Living,4,2024-11-06
+10,576,Electronics,1,2024-09-09
+10,411,Electronics,3,2025-02-19
+40,787,Books & Stationery,2,2024-05-22
+10,512,Electronics,3,2024-07-24
+30,649,Home & Living,2,2024-03-31
+50,322,Sports & Outdoors,1,2024-06-30
+40,428,Books & Stationery,1,2024-06-20
+20,209,Fashion,1,2024-07-25
+50,300,Sports & Outdoors,3,2024-10-14
+40,482,Books & Stationery,4,2024-11-26
+30,346,Home & Living,3,2025-01-28
+20,347,Fashion,2,2024-10-18
+40,897,Books & Stationery,4,2024-09-07
+10,738,Electronics,5,2024-09-22
+20,551,Fashion,3,2024-10-12
+30,244,Home & Living,3,2024-10-26
+50,577,Sports & Outdoors,3,2024-11-14
+20,829,Fashion,3,2024-03-20
+40,480,Books & Stationery,2,2025-02-07
+10,179,Electronics,1,2024-12-13
+40,333,Books & Stationery,1,2024-07-27
+40,586,Books & Stationery,2,2024-11-01
+10,101,Electronics,4,2024-08-29
+10,343,Electronics,5,2024-04-11
+40,162,Books & Stationery,1,2025-01-14
+40,759,Books & Stationery,3,2024-03-20
+10,299,Electronics,2,2024-12-18
+30,451,Home & Living,3,2024-11-13
+50,846,Sports & Outdoors,4,2024-07-25
+10,149,Electronics,5,2024-09-29
+20,648,Fashion,4,2024-10-21
+10,568,Electronics,1,2024-07-16
+10,536,Electronics,5,2024-09-02
+10,678,Electronics,2,2025-01-14
+20,611,Fashion,1,2025-01-13
+40,840,Books & Stationery,5,2025-02-15
+10,960,Electronics,4,2024-05-25
+20,175,Fashion,3,2024-07-15
+50,359,Sports & Outdoors,5,2024-12-05
+30,970,Home & Living,1,2024-10-29
+20,928,Fashion,2,2024-04-21
+10,471,Electronics,2,2024-06-02
+50,517,Sports & Outdoors,3,2024-09-16
+10,970,Electronics,5,2024-09-17
+10,761,Electronics,5,2024-10-16
+40,735,Books & Stationery,1,2024-04-19
+20,734,Fashion,2,2025-01-31
+40,374,Books & Stationery,1,2025-03-10
+40,639,Books & Stationery,1,2024-08-30
+10,677,Electronics,4,2024-07-26
+10,506,Electronics,5,2024-06-24
+20,893,Fashion,1,2024-05-20
+10,733,Electronics,2,2025-03-14
+10,459,Electronics,3,2024-05-04
+20,585,Fashion,1,2024-12-15
+50,883,Sports & Outdoors,1,2024-07-23
+30,180,Home & Living,2,2024-12-31
+30,285,Home & Living,1,2024-09-27
+10,132,Electronics,2,2024-09-22
+10,509,Electronics,3,2024-10-25
+30,224,Home & Living,1,2024-06-02
+10,146,Electronics,5,2025-01-15
+20,646,Fashion,1,2024-03-20
+20,747,Fashion,3,2025-01-29
+50,798,Sports & Outdoors,5,2024-08-17
+40,453,Books & Stationery,3,2025-02-27
+40,408,Books & Stationery,2,2025-01-29
+10,417,Electronics,1,2024-11-16
+20,292,Fashion,4,2025-01-25
+40,580,Books & Stationery,2,2024-04-30
+30,774,Home & Living,3,2024-09-21
+10,955,Electronics,4,2024-06-28
+20,312,Fashion,4,2024-11-27
+20,881,Fashion,2,2025-02-26
+30,747,Home & Living,1,2024-11-14
+40,315,Books & Stationery,2,2024-05-14
+30,471,Home & Living,2,2024-05-28
+50,107,Sports & Outdoors,4,2024-09-24
+10,854,Electronics,5,2024-04-15
+30,158,Home & Living,5,2024-04-07
+30,222,Home & Living,3,2024-12-22
+30,418,Home & Living,5,2025-02-15
+10,672,Electronics,3,2024-06-24
+10,517,Electronics,2,2025-01-11
+10,818,Electronics,5,2024-07-08
+30,863,Home & Living,2,2024-11-24
+50,300,Sports & Outdoors,3,2024-10-15
+20,128,Fashion,1,2024-05-07
+10,749,Electronics,3,2024-07-25
+20,149,Fashion,5,2024-07-17
+50,703,Sports & Outdoors,3,2024-10-22
+10,533,Electronics,1,2025-02-24
+20,642,Fashion,5,2024-12-23
+20,290,Fashion,3,2025-01-14
+50,856,Sports & Outdoors,1,2025-01-15
+50,173,Sports & Outdoors,1,2024-12-19
+20,106,Fashion,1,2024-11-08
+20,217,Fashion,4,2024-04-10
+30,385,Home & Living,1,2025-03-19
+40,329,Books & Stationery,3,2024-05-12
+20,435,Fashion,2,2024-03-28
+30,817,Home & Living,2,2024-05-09
+10,433,Electronics,4,2024-06-29
+40,663,Books & Stationery,3,2024-06-29
+20,910,Fashion,3,2024-07-14
+20,967,Fashion,5,2024-05-30
+40,295,Books & Stationery,5,2024-12-11
+40,569,Books & Stationery,1,2024-07-11
+30,853,Home & Living,5,2024-03-19
+10,143,Electronics,1,2025-01-11
+20,842,Fashion,1,2024-09-08
+10,209,Electronics,3,2024-10-11
+30,368,Home & Living,3,2024-08-12
+50,680,Sports & Outdoors,4,2024-06-11
+10,937,Electronics,1,2025-02-11
+30,788,Home & Living,1,2024-04-19
+20,149,Fashion,1,2024-07-28
+20,133,Fashion,4,2024-12-25
+50,236,Sports & Outdoors,5,2024-05-31
+50,898,Sports & Outdoors,2,2024-04-21
+20,848,Fashion,3,2024-04-27
+30,798,Home & Living,2,2024-10-26
+20,319,Fashion,5,2024-10-06
+40,430,Books & Stationery,1,2024-07-15
+50,426,Sports & Outdoors,3,2024-09-04
+20,557,Fashion,1,2024-07-17
+10,716,Electronics,3,2024-06-09
+10,122,Electronics,1,2025-02-06
+10,956,Electronics,2,2024-11-19
+50,828,Sports & Outdoors,5,2024-03-22
+30,306,Home & Living,2,2024-06-27
+10,222,Electronics,2,2024-12-15
+30,568,Home & Living,1,2024-08-23
+10,582,Electronics,2,2024-06-25
+50,881,Sports & Outdoors,5,2024-03-27
+50,729,Sports & Outdoors,4,2024-08-31
+40,146,Books & Stationery,1,2024-06-18
+20,114,Fashion,5,2024-08-12
+20,327,Fashion,2,2025-01-23
+20,126,Fashion,5,2024-05-15
+30,479,Home & Living,3,2024-09-23
+30,953,Home & Living,4,2024-04-19
+20,489,Fashion,3,2025-01-17
+40,395,Books & Stationery,3,2024-06-10
+50,822,Sports & Outdoors,2,2024-11-26
+50,663,Sports & Outdoors,4,2024-03-28
+20,510,Fashion,2,2025-01-22
+10,142,Electronics,2,2024-06-29
+50,237,Sports & Outdoors,1,2024-09-24
+30,640,Home & Living,5,2024-10-09
+40,995,Books & Stationery,5,2024-04-26
+10,184,Electronics,4,2024-12-20
+50,750,Sports & Outdoors,2,2024-10-13
+30,298,Home & Living,2,2024-08-12
+20,186,Fashion,4,2024-08-17
+10,880,Electronics,1,2024-03-23
+10,797,Electronics,3,2024-05-30
+30,882,Home & Living,1,2024-03-24
+20,600,Fashion,3,2024-07-03
+10,973,Electronics,3,2024-05-27
+50,157,Sports & Outdoors,1,2024-04-19
+20,144,Fashion,5,2024-06-26
+30,499,Home & Living,3,2024-07-10
+10,804,Electronics,2,2024-12-19
+50,713,Sports & Outdoors,3,2025-01-24
+30,256,Home & Living,5,2024-11-12
+10,112,Electronics,4,2024-10-24
+40,759,Books & Stationery,1,2025-01-06
+40,801,Books & Stationery,4,2024-07-12
+30,550,Home & Living,1,2025-03-02
+30,701,Home & Living,5,2025-01-26
+40,866,Books & Stationery,2,2024-11-08
+10,974,Electronics,5,2024-12-18
+30,635,Home & Living,1,2025-01-07
+50,837,Sports & Outdoors,4,2024-12-04
+50,524,Sports & Outdoors,1,2024-06-11
+20,712,Fashion,4,2025-01-26
+40,175,Books & Stationery,2,2025-03-19
+40,332,Books & Stationery,2,2025-01-30
+50,302,Sports & Outdoors,4,2024-06-12
+20,331,Fashion,2,2025-01-28
+20,701,Fashion,4,2024-09-01
+20,325,Fashion,4,2025-02-05
+40,965,Books & Stationery,3,2024-05-04
+40,510,Books & Stationery,5,2024-09-12
+10,445,Electronics,5,2024-11-06
+10,410,Electronics,4,2024-09-17
+40,177,Books & Stationery,3,2024-11-06
