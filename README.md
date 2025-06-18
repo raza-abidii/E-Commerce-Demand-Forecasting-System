@@ -22,8 +22,7 @@ ecommerce-demand-forecasting
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ecommerce-demand-forecasting.git
-   cd ecommerce-demand-forecasting
+   git clone https://github.com/raza-abidii/E-Commerce-Demand-Forecasting-System
    ```
 
 2. Install the required dependencies:
@@ -32,7 +31,7 @@ ecommerce-demand-forecasting
    ```
 
 3. Prepare your data:
-   - Place your raw data files in the `data/raw` directory.
+   - Place your raw data files in the `data` directory.
    - Run the data preprocessing script to clean and transform the data.
 
 ## Usage Examples
@@ -55,7 +54,3 @@ ecommerce-demand-forecasting
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
