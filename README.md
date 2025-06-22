@@ -51,6 +51,24 @@ ecommerce-demand-forecasting
   python src/evaluation.py
   ```
 
+## 📊 Application Flow
+
+```mermaid
+flowchart TD
+    A[Start: User opens Streamlit app] --> B[Upload CSV file]
+    B --> C{Product/Category column exists?}
+    C -- Yes --> D[User selects product/category]
+    C -- No --> E[Use all data]
+    D --> F[Preprocess Data]
+    E --> F
+    F --> G[Train Model]
+    G --> H[User selects forecast period]
+    H --> I[Generate Forecast]
+    I --> J[Show historical & forecasted demand chart]
+    J --> K[Show model evaluation metrics]
+    K --> L[End]
+```
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
