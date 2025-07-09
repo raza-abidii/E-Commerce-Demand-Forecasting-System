@@ -69,6 +69,141 @@ flowchart TD
     K --> L[End]
 ```
 
+# UML Diagrams
+### Class diagram
+```mermaid
+classDiagram
+    class ForecastingModel {
+        - model
+        + __init__(model)
+        + train_model(X_train, y_train)
+        + predict(X_test)
+        + save_model(file_path)
+        + evaluate_model(X_test, y_true)
+        + load_model(file_path)
+    }
+
+    class data_preprocessing {
+        + load_data(file_path)
+        + transform_data(data)
+        + preprocess(df)
+    }
+
+    class forecasting_model {
+        + train(df)
+        + forecast(model, df, periods)
+    }
+
+    class evaluation {
+        + calculate_metrics(y_true, y_pred)
+        + plot_results(y_true, y_pred)
+        + evaluate(model, df)
+    }
+
+    class app {
+        + Streamlit UI
+    }
+
+    forecasting_model ..|> ForecastingModel
+    app --> data_preprocessing : uses
+    app --> forecasting_model : uses
+    app --> evaluation : uses
+```
+### Object diagram
+```mermaid
+erDiagram
+    APP ||--o{ DataFrame : uses
+    APP ||--o{ ForecastingModel : uses
+    APP ||--o{ Evaluation : uses
+    ForecastingModel ||--o{ LinearRegression : wraps
+    DataFrame {
+        string date
+        number demand
+        string product
+    }
+```
+### Sequence diagram
+```mermaid
+sequenceDiagram
+    participant User
+    participant App
+    participant DataPreprocessing
+    participant ForecastingModel
+    participant Evaluation
+
+    User->>App: Upload CSV
+    App->>DataPreprocessing: preprocess(df)
+    DataPreprocessing-->>App: cleaned_df
+    User->>App: Select product/category
+    User->>App: Click Train Model
+    App->>ForecastingModel: train(cleaned_df)
+    ForecastingModel-->>App: model
+    User->>App: Set forecast period
+    User->>App: Click Generate Forecast
+    App->>ForecastingModel: forecast(model, cleaned_df, periods)
+    ForecastingModel-->>App: forecast_df
+    App->>Evaluation: evaluate(model, cleaned_df)
+    Evaluation-->>App: metrics
+    App->>User: Show chart & metrics
+```
+### Use Case diagram
+```mermaid
+flowchart TD
+    User((User))
+    Upload([Upload Data])
+    Select([Select Product/Category])
+    Preprocess([Preprocess Data])
+    Train([Train Model])
+    Forecast([Forecast Demand])
+    View([View Results])
+
+    User --> Upload
+    User --> Select
+    User --> Preprocess
+    User --> Train
+    User --> Forecast
+    User --> View
+
+    Upload --> Preprocess
+    Preprocess --> Train
+    Train --> Forecast
+    Forecast --> View
+```
+### Collaborative diagram
+```mermaid
+graph TD
+    User-->|uploads data|App
+    App-->|calls|data_preprocessing
+    App-->|calls|forecasting_model
+    App-->|calls|evaluation
+    data_preprocessing-->|returns cleaned data|App
+    forecasting_model-->|returns model/forecast|App
+    evaluation-->|returns metrics|App
+    App-->|shows results|User
+```
+### Activity diagram
+```mermaid
+flowchart TD
+    Start([Start])
+    Upload[Upload CSV]
+    Preprocess[Preprocess Data]
+    Select[Select Product/Category]
+    Train[Train Model]
+    Forecast[Forecast Demand]
+    Visualize[Visualize Results]
+    End([End])
+
+    Start --> Upload
+    Upload --> Preprocess
+    Preprocess --> Select
+    Select --> Train
+    Train --> Forecast
+    Forecast --> Visualize
+    Visualize --> End
+```
+
+
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
