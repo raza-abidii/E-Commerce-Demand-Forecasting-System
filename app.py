@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objs as go
-from src import data_preprocessing, forecasting_model, evaluation
+from src import data_preprocessing, forecasting_model, evaluation, utils
 
 st.set_page_config(page_title="E-Commerce Demand Forecasting", layout="wide")
 st.title("📈 E-Commerce Demand Forecasting System")

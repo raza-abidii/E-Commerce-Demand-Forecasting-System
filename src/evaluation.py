@@ -1,7 +1,9 @@
 from sklearn.linear_model import LinearRegression
-import numpy as np
 from sklearn.metrics import mean_absolute_error, mean_squared_error
+import numpy as np
 import pandas as pd
+from .utils import create_features, FEATURE_COLUMNS
+
 
 X_train = np.array([[1], [2], [3], [4], [5]])
 y_train = np.array([100, 120, 130, 140, 150])
@@ -37,17 +39,33 @@ def plot_results(y_true, y_pred):
     plt.show()
 
 
-def evaluate(model, df: pd.DataFrame):
-    """
-    Evaluates the model on the provided DataFrame.
-    Assumes 'date' and 'demand' columns exist.
-    """
-    X = df['date'].map(pd.Timestamp.toordinal).values.reshape(-1, 1)
-    y_true = df['demand'].values
-    y_pred = model.predict(X)
+def evaluate(model_tuple, df):
+    """Evaluate model performance using consistent features"""
+    model, scaler, _ = model_tuple
+    
+    # Create features using shared function
+    df_processed = create_features(df)
+    df_processed = df_processed.dropna()
+    
+    # Prepare features
+    X = df_processed[FEATURE_COLUMNS].values
+    y_true = df_processed['demand'].values
+    
+    # Scale features and predict
+    X_scaled = scaler.transform(X)
+    y_pred = model.predict(X_scaled)
+    
+    # Calculate metrics
     mae = mean_absolute_error(y_true, y_pred)
     mse = mean_squared_error(y_true, y_pred)
+    rmse = np.sqrt(mse)
+    mape = np.mean(np.abs((y_true - y_pred) / y_true)) * 100
+    accuracy = 100 - mape
+    
     return {
         "Mean Absolute Error": mae,
-        "Mean Squared Error": mse
+        "Root Mean Square Error": rmse,
+        "R-squared Score": model.score(X_scaled, y_true),
+        "MAPE": mape,
+        "Forecast Accuracy": accuracy
     }
